@@ -1,1 +1,1 @@
-# Lab1_c_-prog
+# Lab1_c-prog
