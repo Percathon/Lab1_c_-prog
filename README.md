@@ -1,1 +1,2 @@
 # Lab1_c-prog
+This project is a simple menu-driven C program that simulates a parts database management system. The program allows users to interact with various options like adding records, deleting records, and viewing database information. This project serves as an introduction to C programming concepts such as command-line arguments, input/output operations, loops, conditional statements, and functions.
